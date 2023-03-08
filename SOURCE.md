@@ -12,8 +12,8 @@ IMAGE 1 FILE
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
 
+`Modern Transit`
 SMALLER SUB HEAD
 
 `Travel`
@@ -61,5 +61,5 @@ LINK 1
 
 LINK 2
 
-`Wikipedia`
+`kipedia`Wi
 `http://en.wikipedia.org/wiki/Riyadh`
